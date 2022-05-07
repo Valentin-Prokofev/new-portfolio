@@ -1,0 +1,19 @@
+.home {
+    margin: 0 auto;
+    width: 80%;
+    /*height: 900px;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1dc41d;
+}
+
+.home_content {
+    width: 415px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+

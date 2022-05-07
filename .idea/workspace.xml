@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Content.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Form/Form.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Form/Form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Services/Service/Service.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Services/Service/Service.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Services/Services.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Services/Services.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWorks/MyWorks.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyWorks/MyWorks.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new-portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28e6vjt6DZMcKCn6nvWiJW7mwy4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content/Footer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\it-incubator\new-portfolio\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\new-portfolio\src\Content\Footer" />
+      <recent name="D:\it-incubator\new-portfolio\src\Content\Form" />
+      <recent name="D:\it-incubator\new-portfolio\src\MyWorks" />
+      <recent name="D:\it-incubator\new-portfolio\src\Content\Services\Service" />
+      <recent name="D:\it-incubator\new-portfolio\src\Content\Services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\new-portfolio\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="" />
+      <created>1651564943988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651564943988</updated>
+      <workItem from="1651564946645" duration="17498000" />
+      <workItem from="1651673033830" duration="1743000" />
+      <workItem from="1651690433588" duration="87000" />
+      <workItem from="1651928266350" duration="12127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,26 @@
+.about_me {
+    background-color: blue;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.about_me_content {
+    max-width: 1200px;
+}
+
+.about_me_info {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.about_me_stats {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.about_me_title {
+    text-align: center;
+}

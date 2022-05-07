@@ -1,0 +1,19 @@
+p {
+    margin: 0;
+}
+
+.form {
+    background-color: cadetblue;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.form_items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form_main {
+    display: flex;
+    flex-direction: column;
+}

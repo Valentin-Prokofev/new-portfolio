@@ -1,0 +1,14 @@
+.sidebar {
+    min-width: 250px;
+    min-height: 100vh;
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    position: fixed;
+    top:0;
+    left: 0;
+    overflow: hidden;
+}

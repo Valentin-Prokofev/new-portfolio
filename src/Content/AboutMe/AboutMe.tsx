@@ -1,0 +1,54 @@
+import React from 'react';
+import style from "./AboutMe.module.css";
+
+export const AboutMe = () => {
+    return (
+        <div className={style.about_me}>
+            <div className={style.about_me_content}>
+                <p className={style.about_me_title}>
+                    Know Me More
+                </p>
+                <div className={style.about_me_info}>
+                    <div className={style.about_me_info_text}>
+                        <h2>I'm Valentin Prokofev, a Frontend Developer</h2>
+                        <p>I help you build brand for your business at an affordable price. Thousands of clients have
+                            procured exceptional results while working with our dedicated team. when an unknown printer
+                            took a galley of type and scrambled it to make a type specimen book.
+                        </p>
+                        <p>Delivering work within time and budget which meets client’s requirements is our moto.
+                            Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took
+                            a galley.
+                        </p>
+                    </div>
+                    <div className={style.about_me_info_form}>
+                        <ul>
+                            <li><span>Name:</span>Valentin Prokofev</li>
+                            <li><span>Email:</span><a href="mailto:valentin.prokofbev@gmail.com">valentin.prokofbev@gmail.com</a></li>
+                            <li><span>Age:</span>34</li>
+                            <li><span>From:</span>Dimytrovgrad, Ulyanovskaya oblast'</li>
+                        </ul>
+                        <button>Download CV</button>
+                    </div>
+                </div>
+                <div className={style.about_me_stats}>
+                    <div className={style.about_me_stats_item}>
+                        <h4><span>10</span>+</h4>
+                        <p>Years Experiance</p>
+                    </div>
+                    <div className={style.about_me_stats_item}>
+                        <h4><span>250</span>+</h4>
+                        <p>Happy Clients</p>
+                    </div>
+                    <div className={style.about_me_stats_item}>
+                        <h4><span>650</span>+</h4>
+                        <p>Projects Done</p>
+                    </div>
+                    <div className={style.about_me_stats_item}>
+                        <h4><span>38</span>+</h4>
+                        <p>Get Awards</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+};

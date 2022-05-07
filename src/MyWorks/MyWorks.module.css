@@ -1,0 +1,20 @@
+.my_works {
+    background-color: brown;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.my_works_title {
+    text-align: center;
+}
+
+.my_works_items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.my_works_item {
+    width: 350px;
+    border: 1px solid;
+}

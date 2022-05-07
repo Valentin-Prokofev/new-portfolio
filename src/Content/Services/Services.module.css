@@ -1,0 +1,15 @@
+.services {
+    background-color: red;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.services_title {
+    text-align: center;
+}
+
+.services_item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
