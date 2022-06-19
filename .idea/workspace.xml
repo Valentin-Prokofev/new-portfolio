@@ -2,35 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Content.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Form/Form.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Form/Form.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Services/Service/Service.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Services/Service/Service.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Services/Services.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Services/Services.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWorks/MyWorks.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyWorks/MyWorks.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/new-portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new-portfolio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/MyWorks/Work/Work.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/MyWorks/Work/Work.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image/background_home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image/myWorks/about1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image/myWorks/about2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/image/myWorks/about3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/HeaderSection.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/components/HeaderSection.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/styles/sass/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Form.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyWorks/MyWorks.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyWorks/MyWorks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/image/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/image/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +45,38 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28e6vjt6DZMcKCn6nvWiJW7mwy4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content/Footer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content/MyWorks/Work" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -69,13 +85,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\new-portfolio\src\Content\MyWorks\Work" />
+      <recent name="D:\it-incubator\new-portfolio\src\common\components" />
       <recent name="D:\it-incubator\new-portfolio\src\Content\Footer" />
       <recent name="D:\it-incubator\new-portfolio\src\Content\Form" />
       <recent name="D:\it-incubator\new-portfolio\src\MyWorks" />
-      <recent name="D:\it-incubator\new-portfolio\src\Content\Services\Service" />
-      <recent name="D:\it-incubator\new-portfolio\src\Content\Services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\new-portfolio\src\assets\image" />
+      <recent name="D:\it-incubator\new-portfolio\src\assets" />
+      <recent name="D:\it-incubator\new-portfolio\src\Content\MyWorks\Work" />
+      <recent name="D:\it-incubator\new-portfolio\src\Content" />
       <recent name="D:\it-incubator\new-portfolio\src" />
     </key>
   </component>
@@ -90,11 +110,16 @@
       <workItem from="1651564946645" duration="17498000" />
       <workItem from="1651673033830" duration="1743000" />
       <workItem from="1651690433588" duration="87000" />
-      <workItem from="1651928266350" duration="12127000" />
+      <workItem from="1651928266350" duration="12385000" />
+      <workItem from="1652713077989" duration="2719000" />
+      <workItem from="1655617715881" duration="28832000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

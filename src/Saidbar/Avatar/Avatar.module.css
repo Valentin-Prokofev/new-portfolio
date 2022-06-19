@@ -4,10 +4,32 @@
     align-items: center;
 }
 
+.avatar_a {
+    margin-bottom: auto;
+    margin-top: 1.5rem;
+    color: #20c997;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    font-family: "Poppins", sans-serif;
+}
+
+.avatar_span_img {
+    background-color: #343a40;
+}
+
 .avatar_img {
-    /*width: 100px;*/
-    /*height: 100px;*/
-    /*border: 1px solid;*/
-    /*border-radius: 50%;*/
-    /*margin: 10px;*/
+    margin: 0 auto;
+    width: 150px;
+    height: 200px;
+    display: block;
+    border-radius: 50px;
+}
+
+.avatar_header {
+    margin-top: 15px;
+    font-size: 23px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
 }

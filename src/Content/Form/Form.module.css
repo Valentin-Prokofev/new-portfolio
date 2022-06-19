@@ -3,17 +3,47 @@ p {
 }
 
 .form {
-    background-color: cadetblue;
+    background-color: #212529;
+}
+
+.form_container {
     margin: 0 auto;
     width: 80%;
 }
 
+.form h2 {
+    text-align: center;
+}
+
 .form_items {
     display: flex;
-    flex-wrap: wrap;
+    /*flex-wrap: wrap;*/
+    justify-content: space-between;
 }
 
 .form_main {
     display: flex;
     flex-direction: column;
+    /*width: 50%;*/
+}
+
+
+@media screen and (max-width: 750px) {
+    .form_items {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .forms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .form_info_address {
+        text-align: center;
+    }
+
+    .form_main {
+        width: 70%;
+    }
 }

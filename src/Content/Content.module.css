@@ -1,8 +1,10 @@
 .content {
     display: block;
-    margin: 0 0 0 250px ;
+    margin: 0 0 0 290px;
     width: 100%;
     height: 100%;
-    background-color: yellow;
     position: static;
+    background: #dddddd;
+    color: #4c4d4d;
+    font-family: "Lato", sans-serif;
 }

@@ -1,0 +1,21 @@
+.my_works {
+    background-color: #343a40;
+    padding-bottom: 50px;
+
+    .my_works_container {
+        margin: 0 auto;
+        width: 80%;
+
+        .my_works_items {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            @media screen and (max-width: 1000px) {
+                justify-content: center;
+            }
+        }
+    }
+}
+
+
