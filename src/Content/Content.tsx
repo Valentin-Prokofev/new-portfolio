@@ -6,11 +6,17 @@ import {Services} from "./Services/Services";
 import {MyWorks} from "./MyWorks/MyWorks";
 import {Form} from "./Form/Form";
 import {Footer} from "./Footer/Footer";
+import {Header} from "./Header/Header";
 
+type ContentPropsType = {
+    changeToggle: () => void
+    toggle: boolean
+}
 
-export const Content = () => {
+export const Content = (props: ContentPropsType) => {
     return (
         <div className={style.content}>
+            <Header changeToggle={props.changeToggle} toggle={props.toggle}/>
             <Home/>
             <AboutMe/>
             <Services/>
