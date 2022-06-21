@@ -4,7 +4,7 @@ import vk_icon from "../../assets/image/social_icons/icons8-vk-com.svg"
 import github_icon from "../../assets/image/social_icons/icons8-github.svg"
 import facebook_icon from "../../assets/image/social_icons/icons8-facebook.svg"
 import instagram_icon from "../../assets/image/social_icons/icons8-instagram.svg"
-import {Nav} from "../../Saidbar/Navbar/Nav";
+import {NavbarHeader} from "./NavbarHeader/NavbarHeader";
 
 type HeaderPropsType = {
     changeToggle: () => void
@@ -13,7 +13,7 @@ type HeaderPropsType = {
 
 export const Header = (props: HeaderPropsType) => {
 
-    let buttonClassName = props.toggle ? `${style.nav_toggle}` : `${style.nav_toggle} ${style.active}`
+    let burgerMenuClassname = props.toggle ? `${style.nav_toggle} ${style.active}`  : `${style.nav_toggle}`
 
     return (
         <div className={style.header}>
@@ -26,10 +26,11 @@ export const Header = (props: HeaderPropsType) => {
                 <a href="#"><img className={style.vk_icon} src={facebook_icon} alt="facebook"/></a>
                 <a href="#"><img className={style.vk_icon} src={instagram_icon} alt="instagram"/></a>
             </div>
-            <button className={buttonClassName} type="button" onClick={props.changeToggle}>
-                <span className={style.nav_toggle_item}>Menu</span>
-            </button>
-            <Nav toggle={props.toggle}/>
+            {/*<div className={style.div_burger_menu}>*/}
+                <button className={burgerMenuClassname} type="button" onClick={props.changeToggle}>
+                    <span className={style.nav_toggle_item}>Menu</span>
+                </button>
+            {props.toggle && <NavbarHeader/>}
         </div>
     );
 };

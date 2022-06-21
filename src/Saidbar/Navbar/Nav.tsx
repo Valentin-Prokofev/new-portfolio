@@ -1,16 +1,16 @@
 import React from 'react';
 import style from './Nav.module.css'
 
-type NavPropsType = {
-    toggle: boolean
-}
+// type NavPropsType = {
+//     toggle: boolean
+// }
 
-export const Nav = (props:NavPropsType) => {
+export const Nav = () => {
 
-    let navClassName = props.toggle ? `${style.nav_hidden}` : `${style.nav}`
+    // let navClassName = props.toggle ? `${style.nav}` :`${style.nav_hidden}`
 
     return (
-        <nav className={navClassName}>
+        <nav className={style.header_nav}>
             <ul className={style.nav_items}>
                 <li className={style.nav_item}><a href="#">Home</a></li>
                 <li className={style.nav_item}><a href="#">About Me</a></li>

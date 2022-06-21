@@ -2,22 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Content/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Content/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-facebook.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-instagram.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-linkedin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-vk-com.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/vk (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/image/social_icons/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Header/NavbarHeader/NavbarHeader.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content/Header/NavbarHeader/NavbarHeader.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/Header.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Sidebar.module.css" afterDir="false" />
@@ -63,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content/Header" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Content/Header/NavbarHeader" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -72,11 +63,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\new-portfolio\src\Content\Header\NavbarHeader" />
       <recent name="D:\it-incubator\new-portfolio\src\Content\Header" />
       <recent name="D:\it-incubator\new-portfolio\src\Content\MyWorks\Work" />
       <recent name="D:\it-incubator\new-portfolio\src\common\components" />
       <recent name="D:\it-incubator\new-portfolio\src\Content\Footer" />
-      <recent name="D:\it-incubator\new-portfolio\src\Content\Form" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\it-incubator\new-portfolio\src\assets\image" />
@@ -100,7 +91,8 @@
       <workItem from="1651928266350" duration="12385000" />
       <workItem from="1652713077989" duration="2719000" />
       <workItem from="1655617715881" duration="29222000" />
-      <workItem from="1655742450354" duration="12834000" />
+      <workItem from="1655742450354" duration="13169000" />
+      <workItem from="1655824049757" duration="11554000" />
     </task>
     <servers />
   </component>

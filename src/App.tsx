@@ -5,7 +5,7 @@ import {Content} from "./Content/Content";
 
 function App() {
 
-    let [toggle, setToggle] = useState<boolean>(true)
+    let [toggle, setToggle] = useState<boolean>(false)
 
     const onClickHandler = () => {
         setToggle(toggle = !toggle)
@@ -13,7 +13,7 @@ function App() {
 
     return (
         <div className="App">
-            <Sidebar toggle={toggle}/>
+            <Sidebar />
             <Content changeToggle={onClickHandler} toggle={toggle}/>
         </div>
     );

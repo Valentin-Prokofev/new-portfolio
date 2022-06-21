@@ -4,16 +4,11 @@ import {Nav} from "./Navbar/Nav";
 import {Avatar} from "./Avatar/Avatar";
 import {Footer} from "./Footer/Footer";
 
-type SidebarPropsType = {
-    toggle: boolean
-}
-
-
-export const Sidebar = (props: SidebarPropsType) => {
+export const Sidebar = () => {
     return (
         <div className={style.sidebar}>
             <Avatar/>
-            <Nav toggle={props.toggle}/>
+            <Nav />
             <Footer/>
         </div>
     );
