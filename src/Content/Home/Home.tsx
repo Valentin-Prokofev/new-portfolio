@@ -3,16 +3,16 @@ import style from './Home.module.css'
 
 export const Home = () => {
     return (
-        <div className={style.home}>
-            <div className={style.home_content}>
-                <p className={style.title}>welcome</p>
-                <h2 className={style.home_h2}>i'm Valentin Prokofev</h2>
-                <h2 className={style.home_h2}>and</h2>
-                <h2 className={style.home_h2}>i'm Fronted Developer</h2>
-                <p className={style.home_address}>based in Montevideo, Uruguay</p>
-                <button className={style.home_button}>hire me</button>
+        <section className={style.home}>
+            <div className={style.home_row}>
+                <div className={style.home_content}>
+                    <p className={style.home_sup_title}>Welcome</p>
+                    <p className={style.home_title}><span>My Name is</span> Valentin Prokofev<span> and </span>I'm Fronted Developer</p>
+                    <p className={style.home_address}>based in Montevideo, Uruguay</p>
+                    <a className={style.home_btn}>Hire Me</a>
+                </div>
             </div>
-        </div>
+        </section>
     );
 };
 

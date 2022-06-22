@@ -4,7 +4,7 @@ import {Home} from "./Home/Home";
 import {AboutMe} from "./AboutMe/AboutMe";
 import {Services} from "./Services/Services";
 import {MyWorks} from "./MyWorks/MyWorks";
-import {Form} from "./Form/Form";
+import {Contacts} from "./Form/Contacts";
 import {Footer} from "./Footer/Footer";
 import {Header} from "./Header/Header";
 
@@ -21,7 +21,7 @@ export const Content = (props: ContentPropsType) => {
             <AboutMe/>
             <Services/>
             <MyWorks/>
-            <Form/>
+            <Contacts/>
             <Footer/>
         </div>
     );

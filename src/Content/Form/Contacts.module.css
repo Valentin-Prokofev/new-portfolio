@@ -1,0 +1,118 @@
+p {
+    margin: 0;
+}
+
+.form {
+    background-color: #212529;
+    position: relative;
+}
+
+.form_container {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.form_items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.form_items h2 {
+    padding: 0;
+    margin: 0;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.form_info {
+    width: 33.33333%;
+}
+
+.form_info p span {
+    display: block;
+}
+
+.forms {
+   width: 66.66667%;
+}
+
+.follow {
+    display: flex;
+    justify-content: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.forms_flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form_name_input {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 15px;
+}
+
+.form_email_input {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 15px;
+}
+
+.form_textarea_input {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 15px;
+}
+
+.form_control {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    border-color: #232a31;
+    background: #232a31;
+    color: #fff;
+    padding: 10px 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    /*border: 1px solid #ced4da;*/
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.forms_flex textarea {
+    margin: 0;
+    min-height: 130px;
+    resize: vertical;
+}
+
+
+
+@media screen and (max-width: 750px) {
+    .form_items {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .forms {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .form_info_address {
+        text-align: center;
+    }
+
+    .form_main {
+        width: 70%;
+    }
+}
