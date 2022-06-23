@@ -2,27 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/image/avatar/1_0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Form.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Header/NavbarHeader/NavbarHeader.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/NavbarHeader/NavbarHeader.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Avatar/Avatar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Footer/Footer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-vk-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-vk-com.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +88,8 @@
       <workItem from="1655617715881" duration="29222000" />
       <workItem from="1655742450354" duration="13169000" />
       <workItem from="1655824049757" duration="12348000" />
-      <workItem from="1655907813517" duration="17768000" />
+      <workItem from="1655907813517" duration="18560000" />
+      <workItem from="1655995768405" duration="12866000" />
     </task>
     <servers />
   </component>
