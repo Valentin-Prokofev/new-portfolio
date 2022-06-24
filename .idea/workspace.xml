@@ -4,16 +4,7 @@
     <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Contacts/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Contacts/Contacts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/Header.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Services/Service/Service.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Service/ServiceItem.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Services/Service/Service.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Service/ServiceItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/common/components/HeaderSection.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/HeaderSection.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +70,23 @@
       <recent name="D:\it-incubator\new-portfolio\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +105,7 @@
       <workItem from="1655824049757" duration="12348000" />
       <workItem from="1655907813517" duration="18560000" />
       <workItem from="1655995768405" duration="14194000" />
-      <workItem from="1656082410155" duration="13964000" />
+      <workItem from="1656082410155" duration="16129000" />
     </task>
     <servers />
   </component>

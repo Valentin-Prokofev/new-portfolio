@@ -27,8 +27,6 @@
     background-position: center center;
     background-repeat: no-repeat;
     opacity: 0.5;
-
-    /*overflow: hidden;*/
 }
 
 .home_row {
@@ -94,7 +92,7 @@
     color: #fff;
 }
 
-@media (max-width: 1200px) {
+@media screen and  (max-width: 1200px) {
     .home_sup_title {
         font-size: 25px;
         font-weight: 500;
@@ -117,5 +115,11 @@
         color: #dee3e4;
         margin-top: 20px;
         margin-bottom: 90px;
+    }
+}
+
+@media screen and (max-width: 460px) {
+    .home_content {
+        padding: 0 20px;
     }
 }

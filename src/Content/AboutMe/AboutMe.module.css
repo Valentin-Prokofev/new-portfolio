@@ -120,6 +120,21 @@
     .about_me_info_text {
         width: 80%;
     }
+
+    .about_me_info_text h2{
+        font-size: 20px;
+    }
+
+    .about_me_info_text h2 span{
+        font-size: 20px;
+    }
+    .about_me_info_text h2 span:last-child{
+        font-size: 20px;
+    }
+    .about_me_info_text p{
+        color: rgba(255,255,255,.5);
+        font-size: 12px;
+    }
     .about_me_info_form {
         width: 80%;
         text-align: center;

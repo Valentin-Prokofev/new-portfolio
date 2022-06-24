@@ -47,6 +47,9 @@
     .header_section_title {
         font-size: 70px;
     }
+    .header_section_subtitle {
+        font-size: 25px;
+    }
     .header_section::before {
         display: none;
     }
@@ -55,6 +58,9 @@
 @media screen and (max-width: 450px) {
     .header_section_title {
         font-size: 50px;
+    }
+    .header_section_subtitle {
+        font-size: 17px;
     }
     .header_section::before {
         display: none;
