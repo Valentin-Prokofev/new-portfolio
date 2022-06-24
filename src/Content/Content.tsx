@@ -4,7 +4,7 @@ import {Home} from "./Home/Home";
 import {AboutMe} from "./AboutMe/AboutMe";
 import {Services} from "./Services/Services";
 import {MyWorks} from "./MyWorks/MyWorks";
-import {Contacts} from "./Form/Contacts";
+import {Contacts} from "./Contacts/Contacts";
 import {Footer} from "./Footer/Footer";
 import {Header} from "./Header/Header";
 

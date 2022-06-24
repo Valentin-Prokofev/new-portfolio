@@ -119,3 +119,9 @@
         display: none;
     }
 }
+
+@media (max-width: 500px) {
+    .icons {
+        display: none;
+    }
+}

@@ -30,9 +30,10 @@ p {
     font-weight: 500;
     text-transform: uppercase;
 }
-
+/*//////////////////////////////////////////////////////////FORM_INFO*/
 .form_info {
-    width: 33.33333%;
+    flex: 0 0 auto;
+    width: 25%;
 }
 
 .form_info_p_address {
@@ -56,10 +57,6 @@ p {
     margin-right: 10px;
 }
 
-.forms {
-   width: 66.66667%;
-}
-
 .follow {
     display: flex;
     justify-content: left;
@@ -75,35 +72,41 @@ p {
 svg:hover path{
     fill:yellow;
 }
+/*/////////////////////////////////////////////////////////////////FORMS*/
+.forms {
+    flex: 0 0 auto;
+    width: 75%;
+}
 
 .forms_flex {
     display: flex;
     flex-wrap: wrap;
-}
-
-.form_name_input,
-.form_email_input {
-    flex: 0 0 auto;
-    width: 48%;
-    flex-shrink: 0;
-    max-width: 100%;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
 }
 
 .form_name_input {
-    margin-top: 15px;
+    flex: 0 0 auto;
+    width: 50%;
+    flex-shrink: 0;
+    max-width: 100%;
+    padding-right: 12px;
 }
 
 .form_email_input {
-    margin-left: 24px;
-    margin-top: 15px;
+    flex: 0 0 auto;
+    width: 50%;
+    flex-shrink: 0;
+    max-width: 100%;
+    padding-left: 12px;
 }
-
 
 .form_textarea_input {
     flex-shrink: 0;
     width: 100%;
     max-width: 100%;
-    margin-top: 15px;
+    margin-top: 24px;
 }
 
 .form_control {
@@ -166,15 +169,16 @@ svg:hover path{
 
 
 
-
+/*///////////////////////////////////////////////////////////////MEDIA*/
 @media (max-width: 1350px) {
     .form_name_input,
     .form_email_input {
         flex: 0 0 auto;
         width: 100%;
+        padding: 0;
     }
     .form_email_input {
-        margin-left: 0;
+        margin-top: 24px;
     }
 }
 
@@ -203,6 +207,9 @@ svg:hover path{
 
     .form_main {
         width: 70%;
+        /*padding: 0;*/
+        /*margin: 0;*/
+        /*display: inline;*/
     }
 
     .form_info_email {

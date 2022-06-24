@@ -93,3 +93,29 @@
     border-color: #20c997;
     color: #fff;
 }
+
+@media (max-width: 1200px) {
+    .home_sup_title {
+        font-size: 25px;
+        font-weight: 500;
+        margin-bottom: 50px;
+    }
+
+    .home_title {
+        font-size: 35px;
+        font-weight: 600;
+    }
+
+    .home_title span {
+        display: block;
+        font-size: 20px;
+        color: #dee3e4;
+    }
+
+    .home_address {
+        font-size: 13px;
+        color: #dee3e4;
+        margin-top: 20px;
+        margin-bottom: 90px;
+    }
+}

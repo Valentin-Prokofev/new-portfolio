@@ -3,11 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="374ac149-29a9-4139-beda-b7ef01e6bcd4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/AboutMe/AboutMe.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Contacts/Contacts.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Form/Contacts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Contacts/Contacts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Content/Header/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Header/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Saidbar/Navbar/Nav.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-vk-com.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/image/social_icons/icons8-vk-com.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Home/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Home/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/MyWorks/MyWorks.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Service/Service.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Service/ServiceItem.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Service/Service.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Service/ServiceItem.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Content/Services/Services.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Content/Services/Services.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/components/HeaderSection.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/components/HeaderSection.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +96,8 @@
       <workItem from="1655742450354" duration="13169000" />
       <workItem from="1655824049757" duration="12348000" />
       <workItem from="1655907813517" duration="18560000" />
-      <workItem from="1655995768405" duration="12866000" />
+      <workItem from="1655995768405" duration="14194000" />
+      <workItem from="1656082410155" duration="13964000" />
     </task>
     <servers />
   </component>
